@@ -1,4 +1,4 @@
-# Verificador De Cartao
+# Verificador De Cartão
 
 Este projeto faz parte de um desafio proposto pela Digital innovation One, plataforma avançada de treinamentos e cursos, da qual propõem fazer um programa que testa a validação de um arquivo de imagem e por meio da documents intelligence confere se a referida imagem possue ou não campos que denota ser um cartão de crêdito.
 
